@@ -1,0 +1,37 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="pengshaohzi123.github.io" resolutions="1x" timestamp="1462701979237">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-__.css" crc="76295621" ref="index:个人简介:留言专栏:作品展示"/>
+    <file name="index.css" crc="3828580836" ref="index"/>
+    <file name="____.css" crc="431884474" ref="个人简介"/>
+    <file name="____2.css" crc="89064527" ref="留言专栏"/>
+    <file name="____1.css" crc="91269628" ref="作品展示"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>未命名-3:phone>未命名-4:phone>未命名-5:index:个人简介:作品展示:留言专栏"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>未命名-3:phone>未命名-4:phone>未命名-5:index:个人简介:作品展示:留言专栏"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>index:phone>未命名-3:phone>未命名-4:phone>未命名-5:index:个人简介:作品展示:留言专栏"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>未命名-3:phone>未命名-4:phone>未命名-5:index:个人简介:作品展示:留言专栏"/>
+  </folder>
+  <folder name="images">
+    <file name="56c56edebf833.jpg" crc="172776002" ref="phone>index:phone>未命名-3:phone>未命名-4:phone>未命名-5:index:个人简介:作品展示:留言专栏"/>
+    <file name="计算机网页.jpg" crc="3881043999" ref="作品展示"/>
+    <file name="欧朋网站设计.jpg" crc="4228267301" ref="作品展示"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="___-5.css" crc="4176390999" ref="phone>未命名-5"/>
+      <file name="___-4.css" crc="4176390999" ref="phone>未命名-4"/>
+      <file name="___-3.css" crc="4058437887" ref="phone>未命名-3"/>
+      <file name="index.css" crc="4176390999" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="75972945" seo="true" mt="1462596028910" redirect="false"/>
+    <file name="未命名-3.html" crc="505910997" seo="true" mt="1462596461508" redirect="false"/>
+    <file name="未命名-4.html" crc="117360158" seo="true" mt="1462596476613" redirect="false"/>
+    <file name="未命名-5.html" crc="389902022" seo="true" mt="1462596487779" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="329674830" seo="true" mt="1462598220900" redirect="true"/>
+  <file name="个人简介.html" crc="316118349" seo="true" mt="1462598258381" redirect="true"/>
+  <file name="作品展示.html" crc="336889239" seo="true" mt="1462598272096" redirect="true"/>
+  <file name="留言专栏.html" crc="101638042" seo="true" mt="1462598297407" redirect="true"/>
+</manifest>
